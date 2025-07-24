@@ -3,11 +3,6 @@
 Thanks for checking out Data Vision! This is a Python desktop application designed for comprehensive statistical data analysis. It offers a range of features for measuring central tendency, dispersion, distribution, and performing correlation analysis. Plus, it generates insightful graphs to help you visualize your data.
 
 ## Overview
-<p align="center">
-  <img src="https://github.com/snawaza243/pydataview/blob/02f7f4bc25fc2092802bc2f25810938442d4285d/img/Data%20Visual.png" width="60%" height="auto" />
-</p>
-
-## Key Features
 
 ### Measuring Central Tendency and Dispersion
 
